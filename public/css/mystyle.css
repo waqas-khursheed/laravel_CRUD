@@ -1,0 +1,16 @@
+.page-item.active .page-link {
+    color: #b30d01;
+    background-color: unset;
+    border-color: unset;
+}
+
+.delete {
+    cursor: default;
+}
+
+.alert-success {
+    color: black;
+    background-color: #cccccc;
+    bprder: none;
+    border: none;
+}
